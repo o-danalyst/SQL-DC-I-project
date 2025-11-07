@@ -96,17 +96,18 @@ After cleaning, SQL queries were used to extract valuable insights, including:
 
 ```
 📁 SQL-DC-IPROJECT/
+│visuals/
+│   └── Overview.png
+|       Insights.png
+|       FinalTableSample.png
+|README.md
+| 
+|data/
+│   └── layoffs.csv             
 │
-├── data/
-│   └── global_layoffs_raw.csv             
-│
-├── scripts/
-│   └── global_layoffs_cleaning_analysis.sql  
-│
-├── visuals/
-│   └── insights_screenshots.png            
-│
-└── README.md                               
+|scripts/
+│   └── layoffs.sql  
+                              
 ```
 
 ---
